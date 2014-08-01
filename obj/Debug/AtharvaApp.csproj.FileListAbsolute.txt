@@ -1,0 +1,6 @@
+C:\Projects\AtharvaApp\AtharvaApp\bin\Debug\AtharvaApp.exe.config
+C:\Projects\AtharvaApp\AtharvaApp\bin\Debug\AtharvaApp.exe
+C:\Projects\AtharvaApp\AtharvaApp\bin\Debug\AtharvaApp.pdb
+C:\Projects\AtharvaApp\AtharvaApp\obj\Debug\AtharvaApp.csprojResolveAssemblyReference.cache
+C:\Projects\AtharvaApp\AtharvaApp\obj\Debug\AtharvaApp.exe
+C:\Projects\AtharvaApp\AtharvaApp\obj\Debug\AtharvaApp.pdb
